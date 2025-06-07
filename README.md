@@ -1,4 +1,4 @@
-# we nee to create 4 k8s config files:
+# need to create 4 k8s config files:
 
 1. configmap = for mongodb endpoint
 2. secret = for mongodb credentials
