@@ -26,3 +26,4 @@
 14. kubectl logs <podName>
 15. kubectl get svc -o wide
 16. minikube ip
+17. minikube service <serviceName>
