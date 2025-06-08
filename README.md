@@ -24,3 +24,5 @@
 12. kubectl describe <resourceType> <resourceName>
 13. kubectl describe pod <podName>
 14. kubectl logs <podName>
+15. kubectl get svc -o wide
+16. minikube ip
